@@ -2,4 +2,4 @@
 
 *   Installation.
 *   Mise en place.
-*   Commmit.
+*   Commit.
